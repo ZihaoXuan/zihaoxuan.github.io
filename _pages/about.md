@@ -44,9 +44,6 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2021.10*: &nbsp;🎉🎉 Our paper “HPSW-CIM: A Novel ReRAM-Based Computing-in-Memory Architecture with Constant-Term Circuit for Full Parallel Hybrid-Precision-Signed-Weight MAC Operation” has been accepted by IEEE International Symposium on Circuits and Systems (IEEE ISCAS) 2022!
 - *2021.06*：&nbsp;🎉🎉 Our paper “One transistor one electrolyte‐gated transistor based spiking neural network for power‐efficient neuromorphic computing system” has been accepted by Advanced Functional Materials! **(TOP Journal, IF=19.4)**
 
-
-Sub-femto-Joule energy consumption memory device based on van der Waals heterostructure for in-memory computing
-
 # 📝 Publications 
 
 
