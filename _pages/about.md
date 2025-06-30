@@ -25,7 +25,9 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2017.09 - 2023.06*, PhD in Electronic Science and Technology, School of Microelectronics, University of Science and Technology of China. 
 - *2013.09 - 2017.06*, Bachelor in Electronic Packaging Technology, School of Mechano-Electronic Engineering, Xidian University. **GPA: 3.86/4.00, Rank:1/33**
 
-  
+# 💻 Work Experience
+- *2023.10 - Present*, •	Postdoctoral Fellow in AI Chip Center for Emerging Smart System, The Hong Kong University of Science and Technology.
+
 # 🎖 Honors and Awards
 - *2015* National Inspirational Scholarship. 
 - *2016* National Scholarship.
@@ -34,8 +36,9 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2023* Hong Kong Innovation and Technology Funding.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Our paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2025! **(Acceptance Rate: 23%)**
+- *2024.06*: &nbsp;🎉🎉 Our paper “AiDAC: A Low-Cost In-Memory Computing Architecture with All-Analog Multi-Bit Compute and Interconnect” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
+- *2022.11*: &nbsp;🎉🎉 Our paper “A Brain-inspired ADC-free SRAM-Based In-Memory Computing Macro with High-Precision MAC for AI Application” has been accepted by IEEE Transactions on Circuits and Systems II: Express Briefs (IEEE TCAS-II) 2022! **[Selected Highlight](https://www.linkedin.com/posts/ieee-tcas-ii_circuitsandsystems-artificialintelligence-activity-7057385075948068864-KvjU/)**
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
