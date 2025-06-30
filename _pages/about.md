@@ -31,6 +31,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2016* National Scholarship.
 - *2017* Outstanding Graduate of Xidian University.
 - *2019* Guanghua Scholarship.
+- *2023* Hong Kong Innovation and Technology Funding.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
