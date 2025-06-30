@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "ZihaoXuan's Home Page"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "ZihaoXuan's Homepage"
+description              : "Postdoctoral fellow of HKUST and ACCESS. Focusing on efficient neural network algorithms and their implementation on chips.  "
 repository               : "ZihaoXuan/zihaoxuan.github.io"
 google_scholar_stats_use_cdn : true
 
