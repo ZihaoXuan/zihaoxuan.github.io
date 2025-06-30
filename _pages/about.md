@@ -50,5 +50,5 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 # 💬 Invited Talks
 
 
-# :globe_with_meridians: Internships
+# 🌐 Internships
 
