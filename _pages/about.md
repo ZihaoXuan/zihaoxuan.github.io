@@ -19,9 +19,7 @@ redirect_from:
 
 I am currently a postdoctoral fellow at the Hong Kong University of Science and Technology and a member of the AI Chip Center for Emerging Smart Systems (ACCESS) under InnoHK. He received the B.S. degree in mechano-electronic engineering from Xidian University in 2017, and the Ph.D. Degree in electronic science and technology from University of Science and Technology of China in 2023 under the supervision of Prof. Yi Kang.
 
-My research interest includes efficient neural network algorithms and their implementation on chips. 
-
-I have published more than 16 papers at the top international conferences and journals with total <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'>google scholar citations <strong><span id='total_cit'>250+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes efficient neural network algorithms and their implementation on chips, and I have published more than 16 papers at the top international conferences and journals with total <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'>google scholar citations <strong><span id='total_cit'>250+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
