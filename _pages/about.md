@@ -60,16 +60,15 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 📝 Collaborative Publications
 
-- [A 40-nm 202.3 nJ/classification neuromorphic architecture employing in-SRAM charge-domain compute](https://ieeexplore.ieee.org/abstract/document/9620416). Chang Liu, **Zihao Xuan**, Yi Kang. **2021**, *IEEE 14th International Conference on ASIC (ASICON)*
+- [A dynamic decoder with speculative termination for low latency inference in spiking neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231225001304). Yuxuan Yang, **Zihao Xuan**, Song Chen, Yi Kang. **2025**, *Neurocomputing*
 
 - [HNM-CIM: An Algorithm-Hardware Co-designed SRAM-based CIM for Transformer Acceleration Exploiting Hybrid N: M Sparsity](https://dl.acm.org/doi/abs/10.1145/3724394). Yuang Ma, Yulong Meng, **Zihao Xuan**, Song Chen, Yi Kang. **2025**, *ACM Transactions on Design Automation of Electronic Systems*
 
-- [TQ-TTFS: High-Accuracy and Energy-Efficient Spiking Neural Networks Using Temporal Quantization Time-to-First-Spike Neuron](https://ieeexplore.ieee.org/abstract/document/10473964). Yuxuan Yang, **Zihao Xuan**, Yi Kang. **2024** *29th Asia and South Pacific Design Automation Conference (ASP-DAC)*
-
 - [A neuromorphic hardware architecture based on TTFS coding with temporal quantization for spiking neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0167926025000604). Yuxuan Yang, Qihu Xie, **Zihao Xuan**, Song Chen, Yi Kang. **2025**, *Integration*
 
-- [A dynamic decoder with speculative termination for low latency inference in spiking neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231225001304). Yuxuan Yang, **Zihao Xuan**, Song Chen, Yi Kang. **2025**, *Neurocomputing*
+- [TQ-TTFS: High-Accuracy and Energy-Efficient Spiking Neural Networks Using Temporal Quantization Time-to-First-Spike Neuron](https://ieeexplore.ieee.org/abstract/document/10473964). Yuxuan Yang, **Zihao Xuan**, Yi Kang. **2024** *29th Asia and South Pacific Design Automation Conference (ASP-DAC)*
 
+- [A 40-nm 202.3 nJ/classification neuromorphic architecture employing in-SRAM charge-domain compute](https://ieeexplore.ieee.org/abstract/document/9620416). Chang Liu, **Zihao Xuan**, Yi Kang. **2021**, *IEEE 14th International Conference on ASIC (ASICON)*
 
 # 💬 Invited Talks
 
