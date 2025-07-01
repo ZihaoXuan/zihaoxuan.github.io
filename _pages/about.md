@@ -29,12 +29,12 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2023.10 - Present*, Postdoctoral Fellow in AI Chip Center for Emerging Smart System, The Hong Kong University of Science and Technology.
 
 # 🎖 Honors and Awards
-- *2015* National Inspirational Scholarship. 
-- *2016* National Scholarship.
-- *2017* Outstanding Graduate of Xidian University.
-- *2019* Guanghua Scholarship.
 - *2023* Hong Kong Innovation and Technology Funding.
-
+- *2019* Guanghua Scholarship.
+- *2017* Outstanding Graduate of Xidian University.
+- *2016* National Scholarship.
+- *2015* National Inspirational Scholarship.
+- 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 My paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2025! **(CCF-A Conference, Acceptance Rate: 23%)**
 - *2024.06*: &nbsp;🎉🎉 My paper “AiDAC: A Low-Cost In-Memory Computing Architecture with All-Analog Multi-Bit Compute and Interconnect” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
@@ -46,6 +46,11 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 📝 Publications 
 
+YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI
+
+**Zihao Xuan**, Yuxuan Yang, Wei Xuan, Zijia Su, Song Chen, Yi Kang
+
+**2025**, *ACM/IEEE Design Automation Conference (DAC)*
 
 # 💬 Invited Talks
 
