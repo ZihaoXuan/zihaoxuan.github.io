@@ -46,7 +46,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 📝 Publications 
 
-YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI
+YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-Scale AI
 
 **Zihao Xuan**, Yuxuan Yang, Wei Xuan, Zijia Su, Song Chen, Yi Kang
 
