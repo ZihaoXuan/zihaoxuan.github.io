@@ -54,9 +54,9 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 - [HPSW-CIM: A Novel ReRAM-Based Computing-in-Memory Architecture with Constant-Term Circuit for Full Parallel Hybrid-Precision-Signed-Weight MAC Operation](https://ieeexplore.ieee.org/document/9937828). **Zihao Xuan**, Yue Zhang, Yuan Li, Chang Liu, Yi Kang. **2022**, *IEEE International Symposium on Circuits and Systems (ISCAS)*
 
-- [Sub-femto-Joule energy consumption memory device based on van der Waals heterostructure for in-memory computing](https://www.sciencedirect.com/science/article/pii/S2709472322000120). Zijia Su†, **Zihao Xuan†**, Jing Liu, Yi Kang, Chun-Sen Liu, Cheng-Jie Zuo. **2020**, *Chip* (Co-first author)
+- [Sub-femto-Joule energy consumption memory device based on van der Waals heterostructure for in-memory computing](https://www.sciencedirect.com/science/article/pii/S2709472322000120). Zijia Su†, **Zihao Xuan†**, Jing Liu, Yi Kang, Chun-Sen Liu, Cheng-Jie Zuo. **2020**, *Chip* (co-first author)
 
-- [One transistor one electrolyte‐gated transistor based spiking neural network for power‐efficient neuromorphic computing system](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100042). Yue Li†, **Zihao Xuan†**, Jikai Lu, Zhongrui Wang, Xumeng Zhang, Zuheng Wu, Yongzhou Wang, Han Xu, Chunmeng Dou, Yi Kang, Qi Liu, Hangbing Lv, Dashan Shang. **2019**, *Advanced Functional Materials* (Co-first author)
+- [One transistor one electrolyte‐gated transistor based spiking neural network for power‐efficient neuromorphic computing system](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100042). Yue Li†, **Zihao Xuan†**, Jikai Lu, Zhongrui Wang, Xumeng Zhang, Zuheng Wu, Yongzhou Wang, Han Xu, Chunmeng Dou, Yi Kang, Qi Liu, Hangbing Lv, Dashan Shang. **2019**, *Advanced Functional Materials* (co-first author)
 
 # 📝 Collaborative Publications
 
