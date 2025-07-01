@@ -72,7 +72,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 🔍 Manuscript Reviews
 
-- TCAS-I 2022, 2025; AFM 2025; Sensors 2025. 
+- IEEE TCAS-I 2022, 2025; AFM 2025; Sensors 2025. 
 
 # 💬 Invited Talks
 
