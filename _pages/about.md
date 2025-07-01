@@ -46,15 +46,19 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 📝 Main Publications 
 
-</div>
-</div>
-YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-Scale AI
+- [YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-Scale AI](https://arxiv.org/abs/2312.11836). **Zihao Xuan**, Yuxuan Yang, Wei Xuan, Zijia Su, Song Chen, Yi Kang. **2025**, *ACM/IEEE Design Automation Conference (DAC)*
 
-**Zihao Xuan**, Yuxuan Yang, Wei Xuan, Zijia Su, Song Chen, Yi Kang
+- [A Brain-inspired ADC-free SRAM-Based In-Memory Computing Macro with High-Precision MAC for AI Application](https://ieeexplore.ieee.org/document/9960777). **Zihao Xuan**, Chang Liu, Yue Zhang, Yuan Li, Yi Kang. **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs (IEEE TCAS-II)*
 
-**2025**, *ACM/IEEE Design Automation Conference (DAC)*
-</div>
-</div>
+- [High-efficiency data conversion interface for reconfigurable function-in-memory computing](https://ieeexplore.ieee.org/document/9795103). **Zihao Xuan**, Yi Kang. **2022**, *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*
+
+- [HPSW-CIM: A Novel ReRAM-Based Computing-in-Memory Architecture with Constant-Term Circuit for Full Parallel Hybrid-Precision-Signed-Weight MAC Operation](https://ieeexplore.ieee.org/document/9937828). **Zihao Xuan**, Yue Zhang, Yuan Li, Chang Liu, Yi Kang. **2022**, *IEEE International Symposium on Circuits and Systems (ISCAS)*
+
+- [Sub-femto-Joule energy consumption memory device based on van der Waals heterostructure for in-memory computing](https://www.sciencedirect.com/science/article/pii/S2709472322000120). Zijia Su†, **Zihao Xuan†**, Jing Liu, Yi Kang, Chun-Sen Liu, Cheng-Jie Zuo. **2020**, *Chip* (Co-first author)
+
+- [One transistor one electrolyte‐gated transistor based spiking neural network for power‐efficient neuromorphic computing system](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100042). Yue Li†, **Zihao Xuan†**, Jikai Lu, Zhongrui Wang, Xumeng Zhang, Zuheng Wu, Yongzhou Wang, Han Xu, Chunmeng Dou, Yi Kang, Qi Liu, Hangbing Lv, Dashan Shang. **2019**, *Advanced Functional Materials* (Co-first author)
+
+# 📝 Collaborative Publications
 
 
 # 💬 Invited Talks
