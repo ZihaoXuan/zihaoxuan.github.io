@@ -44,13 +44,18 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2021.10*: &nbsp;🎉🎉 My paper “HPSW-CIM: A Novel ReRAM-Based Computing-in-Memory Architecture with Constant-Term Circuit for Full Parallel Hybrid-Precision-Signed-Weight MAC Operation” has been accepted by IEEE International Symposium on Circuits and Systems (IEEE ISCAS) 2022!
 - *2021.06*：&nbsp;🎉🎉 One paper as co-first author “One transistor one electrolyte‐gated transistor based spiking neural network for power‐efficient neuromorphic computing system” has been accepted by Advanced Functional Materials! **(TOP Journal, IF=19.4)**
 
-# 📝 Publications 
+# 📝 Main Publications 
 
+</div>
+</div>
 YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-Scale AI
 
 **Zihao Xuan**, Yuxuan Yang, Wei Xuan, Zijia Su, Song Chen, Yi Kang
 
 **2025**, *ACM/IEEE Design Automation Conference (DAC)*
+</div>
+</div>
+
 
 # 💬 Invited Talks
 
