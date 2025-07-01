@@ -36,13 +36,13 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2023* Hong Kong Innovation and Technology Funding.
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2025! **(CCF-A Conference, Acceptance Rate: 23%)**
-- *2024.06*: &nbsp;🎉🎉 Our paper “AiDAC: A Low-Cost In-Memory Computing Architecture with All-Analog Multi-Bit Compute and Interconnect” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
-- *2022.11*: &nbsp;🎉🎉 Our paper “A Brain-inspired ADC-free SRAM-Based In-Memory Computing Macro with High-Precision MAC for AI Application” has been accepted by IEEE Transactions on Circuits and Systems II: Express Briefs (IEEE TCAS-II)! **[Spotlight Article](https://www.linkedin.com/posts/ieee-tcas-ii_circuitsandsystems-artificialintelligence-activity-7057385075948068864-KvjU/)**
-- *2022.06*: &nbsp;🎉🎉 Our paper “High-efficiency data conversion interface for reconfigurable function-in-memory computing” has been accepted by IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI)! **(CCF-B Journal)**
-- *2022.06*: &nbsp;🎉🎉 Our paper “Sub-femto-Joule energy consumption memory device based on van der Waals heterostructure for in-memory computing” has been accepted by Chip! **(JCR Q1, IF = 7.1)**
-- *2021.10*: &nbsp;🎉🎉 Our paper “HPSW-CIM: A Novel ReRAM-Based Computing-in-Memory Architecture with Constant-Term Circuit for Full Parallel Hybrid-Precision-Signed-Weight MAC Operation” has been accepted by IEEE International Symposium on Circuits and Systems (IEEE ISCAS) 2022!
-- *2021.06*：&nbsp;🎉🎉 Our paper “One transistor one electrolyte‐gated transistor based spiking neural network for power‐efficient neuromorphic computing system” has been accepted by Advanced Functional Materials! **(TOP Journal, IF=19.4)**
+- *2025.06*: &nbsp;🎉🎉 My paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2025! **(CCF-A Conference, Acceptance Rate: 23%)**
+- *2024.06*: &nbsp;🎉🎉 My paper “AiDAC: A Low-Cost In-Memory Computing Architecture with All-Analog Multi-Bit Compute and Interconnect” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
+- *2022.11*: &nbsp;🎉🎉 My paper “A Brain-inspired ADC-free SRAM-Based In-Memory Computing Macro with High-Precision MAC for AI Application” has been accepted by IEEE Transactions on Circuits and Systems II: Express Briefs (IEEE TCAS-II)! **[Spotlight Article](https://www.linkedin.com/posts/ieee-tcas-ii_circuitsandsystems-artificialintelligence-activity-7057385075948068864-KvjU/)**
+- *2022.06*: &nbsp;🎉🎉 My paper “High-efficiency data conversion interface for reconfigurable function-in-memory computing” has been accepted by IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI)! **(CCF-B Journal)**
+- *2022.06*: &nbsp;🎉🎉 One paper as co-first author “Sub-femto-Joule energy consumption memory device based on van der Waals heterostructure for in-memory computing” has been accepted by Chip! **(JCR Q1, IF = 7.1)**
+- *2021.10*: &nbsp;🎉🎉 My paper “HPSW-CIM: A Novel ReRAM-Based Computing-in-Memory Architecture with Constant-Term Circuit for Full Parallel Hybrid-Precision-Signed-Weight MAC Operation” has been accepted by IEEE International Symposium on Circuits and Systems (IEEE ISCAS) 2022!
+- *2021.06*：&nbsp;🎉🎉 One paper as co-first author “One transistor one electrolyte‐gated transistor based spiking neural network for power‐efficient neuromorphic computing system” has been accepted by Advanced Functional Materials! **(TOP Journal, IF=19.4)**
 
 # 📝 Publications 
 
