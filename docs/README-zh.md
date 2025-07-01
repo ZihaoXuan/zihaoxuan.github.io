@@ -1,6 +1,6 @@
 
 <h1 align="center">
-ZihaoXuan Homepage
+AcadHomepage
 </h1>
 
 <div align="center">
