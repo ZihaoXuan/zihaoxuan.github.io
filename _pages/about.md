@@ -70,6 +70,10 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 - [A 40-nm 202.3 nJ/classification neuromorphic architecture employing in-SRAM charge-domain compute](https://ieeexplore.ieee.org/abstract/document/9620416). Chang Liu, **Zihao Xuan**, Yi Kang. **2021**, *IEEE 14th International Conference on ASIC (ASICON)*
 
+# 🔍 Manuscript Reviews
+
+TCAS-I 2022,2025; AFM 2025; Sensors 2025. 
+
 # 💬 Invited Talks
 
 
