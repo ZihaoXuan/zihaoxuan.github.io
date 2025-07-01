@@ -26,7 +26,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2013.09 - 2017.06*, Bachelor in Electronic Packaging Technology, School of Mechano-Electronic Engineering, Xidian University. **GPA: 3.86/4.00, Rank:1/33**
 
 # 💻 Work Experience
-- *2023.10 - Present*, •	Postdoctoral Fellow in AI Chip Center for Emerging Smart System, The Hong Kong University of Science and Technology.
+- *2023.10 - Present*, Postdoctoral Fellow in AI Chip Center for Emerging Smart System, The Hong Kong University of Science and Technology.
 
 # 🎖 Honors and Awards
 - *2015* National Inspirational Scholarship. 
