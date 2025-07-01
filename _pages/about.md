@@ -34,7 +34,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2017* Outstanding Graduate of Xidian University.
 - *2016* National Scholarship.
 - *2015* National Inspirational Scholarship.
-- 
+  
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 My paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2025! **(CCF-A Conference, Acceptance Rate: 23%)**
 - *2024.06*: &nbsp;🎉🎉 My paper “AiDAC: A Low-Cost In-Memory Computing Architecture with All-Analog Multi-Bit Compute and Interconnect” has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
@@ -72,7 +72,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 🔍 Manuscript Reviews
 
-TCAS-I 2022,2025; AFM 2025; Sensors 2025. 
+- TCAS-I 2022, 2025; AFM 2025; Sensors 2025. 
 
 # 💬 Invited Talks
 
