@@ -66,11 +66,13 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 - [A neuromorphic hardware architecture based on TTFS coding with temporal quantization for spiking neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0167926025000604). Yuxuan Yang, Qihu Xie, **Zihao Xuan**, Song Chen, Yi Kang. **2025**, *Integration*
 
-- [Broadband Artificial Tetrachromatic Synaptic Devices Composed of 2D/3D Integrated WSe2 -GaN-based Dual-Channel Floating Gate Transistors](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202316802). Zijia Su, Yong Yan, Maorong Sun, **Zihao Xuan**, Hengxiao Cheng, Dongyang Luo, Zhixiang Gao, Huabin Yu, Haochen Zhang, Chengjie Zuo*, and Haiding Sun*
+- [Broadband Artificial Tetrachromatic Synaptic Devices Composed of 2D/3D Integrated WSe2 -GaN-based Dual-Channel Floating Gate Transistors](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202316802). Zijia Su, Yong Yan, Maorong Sun, **Zihao Xuan**, Hengxiao Cheng, Dongyang Luo, Zhixiang Gao, Huabin Yu, Haochen Zhang, Chengjie Zuo*, and Haiding Sun*. **2024**, *Advanced Functional Materials*
 
 - [TQ-TTFS: High-Accuracy and Energy-Efficient Spiking Neural Networks Using Temporal Quantization Time-to-First-Spike Neuron](https://ieeexplore.ieee.org/abstract/document/10473964). Yuxuan Yang, **Zihao Xuan**, Yi Kang. **2024** *29th Asia and South Pacific Design Automation Conference (ASP-DAC)*
 
 - [An 1.38 nJ/Inference Clock-Free Mixed-Signal Neuromorphic Architecture Using ReL-PSP Function and Computing-in-Memory](https://ieeexplore.ieee.org/abstract/document/10388821). Wenbing Fang, **Zihao Xuan**, Song Chen, Yi Kang. **2023**, *IEEE Biomedical Circuits and Systems Conference (BioCAS)*
+
+- [A 28nm 15.09 nJ/inference Neuromorphic Processor with SRAM-Based Charge Domain in-Memory-Computing](https://ieeexplore.ieee.org/abstract/document/10396030). Yuchao Zhang, Zihao Xuan, Yi Kang. **2023**, *IEEE 15th International Conference on ASIC (ASICON)*
 
 - [A 40-nm 202.3 nJ/classification neuromorphic architecture employing in-SRAM charge-domain compute](https://ieeexplore.ieee.org/abstract/document/9620416). Chang Liu, **Zihao Xuan**, Yi Kang. **2021**, *IEEE 14th International Conference on ASIC (ASICON)*
 
