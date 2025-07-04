@@ -78,6 +78,8 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 - [One transistor one electrolyte-gated transistor for supervised learning in SNNs](https://ieeexplore.ieee.org/abstract/document/9663402). Jikai Lu, Yue Li, **Zihao Xuan**, Han Xu, Shuyu Wu, Zhongrui Wang, Shibing Long, Qi Liu, Dashan Shang. 2021, *IEEE Electron Device Letters*.
 
+- [Vertical sandwich gate-all-around field-effect transistors with self-aligned high-k metal gates and small effective-gate-length variation](https://ieeexplore.ieee.org/abstract/document/8908797/). Xiaogen Yin, Yongkui Zhang, Huilong Zhu, GL Wang, JJ Li, AY Du, C Li, LH Zhao, WX Huang, H Yang, L Xie, XZ Ai, YB Zhang, KP Jia, ZH Wu, XL Ma, QZ Zhang, SJ Mao, JJ Xiang, JF Gao, XB He, GB Bai, YH Lu, N Zhou, ZZ Kong, Y Zhang, J Zhao, SS Ma, **ZH Xuan**, YY Li, L Li, QH Zhang, JH Han, RL Chen, Y Qu, T Yang, J Luo, JF Li, HX Yin, H Radamson, C Zhao, WW Wang, TC Ye. **2019**, *IEEE Electron Device Letters*.
+
 # 🔍 Manuscript Reviews
 
 - IEEE TCAS-I 2022, 2025; AFM 2025; Sensors 2025. 
