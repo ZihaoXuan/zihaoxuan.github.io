@@ -36,6 +36,8 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2015* National Inspirational Scholarship.
   
 # 🔥 News
+
+- *2025.08*: &nbsp;🎉🎉 Our paper “CDCC: A HIGH-EFFICIENCY SRAM-BASED CHARGE-DOMAIN COMPUTE-IN-MEMORY MACRO WITH COMPLEMENT COMPENSATION DESIGN FOR AI APPLICATIONS” has been accepted by the IEEE ASICON 2025 as Oral presentation paper, Aug 2025, Yunan, China! **oops, i am the first corresponding author**
 - *2025.06*: &nbsp;🎉🎉 My paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC), Jun 2025, San Francisco, USA! **(CCF-A Conference, Acceptance Rate: 23%)**
 - *2025.06*: &nbsp;🎉🎉 One collaborative paper "SeDA: Secure and Efficient DNN Accelerators with Hardware/Software Synergy" has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC), Jun 2025, San Francisco, USA! **(CCF-A Conference, Acceptance Rate: 23%)**
 - *2024.06*: &nbsp;🎉🎉 My paper “AiDAC: A Low-Cost In-Memory Computing Architecture with All-Analog Multi-Bit Compute and Interconnect” has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
@@ -62,6 +64,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 # 📝 Collaborative Publications
 
 - [SeDA: Secure and Efficient DNN Accelerators with Hardware/Software Synergy]. Wei Xuan, Zhongrui Wang*, Lang Feng*, Ning Lin, Zihao Xuan, Rongliang Fu, Tsung-Yi Ho, Yuzhong Jiao and Luhong Liang. **2025**, *62nd ACM/IEEE Design Automation Conference (DAC)*.
+  
 - [A dynamic decoder with speculative termination for low latency inference in spiking neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231225001304). Yuxuan Yang, **Zihao Xuan**, Song Chen, Yi Kang*. **2025**, *Neurocomputing*.
 
 - [HNM-CIM: An Algorithm-Hardware Co-designed SRAM-based CIM for Transformer Acceleration Exploiting Hybrid N: M Sparsity](https://dl.acm.org/doi/abs/10.1145/3724394). Yuang Ma, Yulong Meng, **Zihao Xuan**, Song Chen, Yi Kang*. **2025**, *ACM Transactions on Design Automation of Electronic Systems*.
