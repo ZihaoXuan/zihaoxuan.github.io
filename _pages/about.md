@@ -87,7 +87,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 🔍 Manuscript Reviews
 
-- IEEE TCAS-I 2022, 2025; AFM 2025; Sensors 2025. 
+- IEEE TCAS-I 2022, 2025; AFM 2025; Sensors 2025. Advance Science 2025, TCAD 2025, TVLSI 2025.
 
 # 💬 Invited Talks
 
