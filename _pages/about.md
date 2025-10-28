@@ -37,7 +37,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
   
 # 🔥 News
 
-- *2025.08*: &nbsp;🎉🎉 Our paper “CDCC: A HIGH-EFFICIENCY SRAM-BASED CHARGE-DOMAIN COMPUTE-IN-MEMORY MACRO WITH COMPLEMENT COMPENSATION DESIGN FOR AI APPLICATIONS” has been accepted by the IEEE ASICON 2025 as Oral presentation paper, Aug 2025, Yunan, China! **oops, i am the first corresponding author**
+- *2025.08*: &nbsp;🎉🎉 My mian correspond paper “CDCC: A HIGH-EFFICIENCY SRAM-BASED CHARGE-DOMAIN COMPUTE-IN-MEMORY MACRO WITH COMPLEMENT COMPENSATION DESIGN FOR AI APPLICATIONS” has been accepted by the IEEE ASICON 2025 as Oral presentation paper, Aug 2025, Yunan, China! **Excellent Student Paper**
 - *2025.06*: &nbsp;🎉🎉 My paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC), Jun 2025, San Francisco, USA! **(CCF-A Conference, Acceptance Rate: 23%)**
 - *2025.06*: &nbsp;🎉🎉 One collaborative paper "SeDA: Secure and Efficient DNN Accelerators with Hardware/Software Synergy" has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC), Jun 2025, San Francisco, USA! **(CCF-A Conference, Acceptance Rate: 23%)**
 - *2024.06*: &nbsp;🎉🎉 My paper “AiDAC: A Low-Cost In-Memory Computing Architecture with All-Analog Multi-Bit Compute and Interconnect” has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
