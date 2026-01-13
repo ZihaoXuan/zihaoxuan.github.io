@@ -29,7 +29,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2023.10 - Present*, Postdoctoral Fellow in AI Chip Center for Emerging Smart System, The Hong Kong University of Science and Technology.
 
 # 🎖 Honors and Awards
-- *2023* Hong Kong Innovation and Technology Funding.
+- *2023 - Present* Hong Kong Innovation and Technology Funding.
 - *2019* Guanghua Scholarship.
 - *2017* Outstanding Graduate of Xidian University.
 - *2016* National Scholarship.
