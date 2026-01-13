@@ -29,11 +29,11 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2023.10 - Present*, Postdoctoral Fellow in AI Chip Center for Emerging Smart System, The Hong Kong University of Science and Technology.
 
 # 🎖 Honors and Awards
-- *2023 - Present* Hong Kong Innovation and Technology Funding.
-- *2019* Guanghua Scholarship.
-- *2017* Outstanding Graduate of Xidian University.
-- *2016* National Scholarship.
-- *2015* National Inspirational Scholarship.
+- *2023-Present*, Hong Kong Innovation and Technology Funding.
+- *2019*, Guanghua Scholarship.
+- *2017*, Outstanding Graduate of Xidian University.
+- *2016*, National Scholarship.
+- *2015*, National Inspirational Scholarship.
   
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper “D2CIM: A 28nm 53.3 TFLOP/W Decoding Digital CIM Macro for Efficient FlashMLA-based LLM Inference” has been accepted for oral presentation at 2026 IEEE Custom Integrated Circuits Conference (CICC) , Apri 2026, Seattle, USA! **Top IC Conference**
