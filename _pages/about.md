@@ -36,7 +36,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2015* National Inspirational Scholarship.
   
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our CIM Chip paper “D2CIM: A 28nm 53.3 TFLOP/W Decoding Digital CIM Macro for Efficient FlashMLA-based LLM Inference” has been accepted for oral presentation at 2026 IEEE Custom Integrated Circuits Conference (CICC) , Apri 2026, Seattle, USA! **Top IC Conference**
+- *2026.01*: &nbsp;🎉🎉 Our paper “D2CIM: A 28nm 53.3 TFLOP/W Decoding Digital CIM Macro for Efficient FlashMLA-based LLM Inference” has been accepted for oral presentation at 2026 IEEE Custom Integrated Circuits Conference (CICC) , Apri 2026, Seattle, USA! **Top IC Conference**
 - *2025.08*: &nbsp;🎉🎉 My paper as the main corresponding author “CDCC: A HIGH-EFFICIENCY SRAM-BASED CHARGE-DOMAIN COMPUTE-IN-MEMORY MACRO WITH COMPLEMENT COMPENSATION DESIGN FOR AI APPLICATIONS” has been accepted by the IEEE ASICON 2025 as Oral presentation paper, Aug 2025, Yunan, China! **(Best Paper Award)**
 - *2025.06*: &nbsp;🎉🎉 My paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC), Jun 2025, San Francisco, USA! **(CCF-A Conference, Acceptance Rate: 23%)**
 - *2025.06*: &nbsp;🎉🎉 One collaborative paper "SeDA: Secure and Efficient DNN Accelerators with Hardware/Software Synergy" has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC), Jun 2025, San Francisco, USA! **(CCF-A Conference, Acceptance Rate: 23%)**
