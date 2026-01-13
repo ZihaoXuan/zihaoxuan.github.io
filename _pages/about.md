@@ -19,6 +19,8 @@ redirect_from:
 
 I am currently a postdoctoral fellow at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) and a member of the [AI Chip Center for Emerging Smart Systems](https://inno-access.hk/)(ACCESS) under InnoHK. He received the B.S. degree in mechano-electronic engineering from [Xidian University](https://en.xidian.edu.cn/) in 2017, and the Ph.D. Degree in electronic science and technology from [University of Science and Technology of China](https://www.ustc.edu.cn/) in 2023 under the supervision of Prof. Yi Kang. My research interest includes efficient neural network algorithms and their implementation on chips, and I have published more than 16 papers at the top international conferences DAC, ASP-DAC, ISCAS, and journals AFM, TCAS-II, TVLSI, TODES, CHIP, with total <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'>google scholar citations <strong><span id='total_cit'>250+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). You can find more information through my [CV](../images/CanadaCast_CV_example.pdf). Welcome to contact with me if you have any interests.
 
+I am currently a Postdoctoral Fellow at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) and a staff of the [AI Chip Center for Emerging Smart Systems](https://inno-access.hk/) (ACCESS) under InnoHK. I received the B.S. degree in Mechano-Electronic Engineering from [Xidian University](https://en.xidian.edu.cn/) in 2017, and the Ph.D. degree in Electronic Science and Technology from the [University of Science and Technology of China](https://www.ustc.edu.cn/) in 2023 under the supervision of Prof. Yi Kang. My research interests include efficient neural network algorithms and their implementation on chips. I have published more than 16+ papers at top international conferences (DAC, CICC, ASP-DAC, ISCAS) and journals (AFM, TCAS-II, TVLSI, TODES, CHIP), with total <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'>Google Scholar citations <strong><span id='total_cit'>250+</span></strong></a> (You can also use the Google Scholar badge <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). You can find more information through my [CV](../images/CanadaCast_CV_example.pdf). Welcome to contact me if you have any interests in collaboration.
+
 E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 📖 Educations
@@ -36,7 +38,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2015* National Inspirational Scholarship.
   
 # 🔥 News
-
+- *2026.01*: &nbsp;🎉🎉 Our CIM Chip paper “D2CIM: A 28nm 53.3 TFLOP/W Decoding Digital CIM Macro for Efficient FlashMLA-based LLM Inference” has been accepted for oral presentation at 2026 IEEE Custom Integrated Circuits Conference (CICC) , Apri 2026, Seattle, USA! **Top IC Conference**
 - *2025.08*: &nbsp;🎉🎉 My paper as the main corresponding author “CDCC: A HIGH-EFFICIENCY SRAM-BASED CHARGE-DOMAIN COMPUTE-IN-MEMORY MACRO WITH COMPLEMENT COMPENSATION DESIGN FOR AI APPLICATIONS” has been accepted by the IEEE ASICON 2025 as Oral presentation paper, Aug 2025, Yunan, China! **(Best Paper Award)**
 - *2025.06*: &nbsp;🎉🎉 My paper “YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-scale AI” has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC), Jun 2025, San Francisco, USA! **(CCF-A Conference, Acceptance Rate: 23%)**
 - *2025.06*: &nbsp;🎉🎉 One collaborative paper "SeDA: Secure and Efficient DNN Accelerators with Hardware/Software Synergy" has been accepted by 62nd ACM/IEEE Design Automation Conference (DAC), Jun 2025, San Francisco, USA! **(CCF-A Conference, Acceptance Rate: 23%)**
@@ -49,7 +51,9 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
 # 📝 Main Publications 
 
-- [YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-Scale AI](https://arxiv.org/abs/2312.11836). **Zihao Xuan**, Yuxuan Yang, Wei Xuan, Zijia Su, Song Chen, Yi Kang*. **2025**, *62nd ACM/IEEE Design Automation Conference (DAC)*.
+- [D2CIM: A 28nm 53.3 TFLOP/W Decoding Digital CIM Macro for Efficient FlashMLA-based LLM Inference].
+
+- [YOCO: A Hybrid In-Memory Computing Architecture with 8-bit Sub-PetaOps/W In-situ Multiply Arithmetic for Large-Scale AI](ieeexplore.ieee.org/abstract/document/11133156). **Zihao Xuan**, Yuxuan Yang, Wei Xuan, Zijia Su, Song Chen, Yi Kang*. **2025**, *62nd ACM/IEEE Design Automation Conference (DAC)*.
 
 - [A Brain-inspired ADC-free SRAM-Based In-Memory Computing Macro with High-Precision MAC for AI Application](https://ieeexplore.ieee.org/document/9960777). **Zihao Xuan**, Chang Liu, Yue Zhang, Yuan Li, Yi Kang*. **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs (IEEE TCAS-II)*.
 
