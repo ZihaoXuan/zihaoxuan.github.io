@@ -19,13 +19,13 @@ redirect_from:
   <h2>Zihao Xuan (宣自豪)</h2>
   <p>
     <a href="mailto:zihaoxuan@ust.hk"><img src="https://img.shields.io/badge/Email-zihaoxuan@ust.hk-007EC6?style=flat&logo=minutemailer&logoColor=white" alt="Email"></a>
-    &nbsp;
+
     <a href="https://scholar.google.com/citations?user=v9wNPcgAAAAJ">
       <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FZihaoXuan%2Fzihaoxuan.github.io%2Fmain%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=googlescholar&labelColor=f6f6f6&color=4285F4&style=flat&label=Citations" alt="Google Scholar Citations">
     </a>
-    &nbsp;
+
     <a href="../images/CanadaCast_CV_example.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="CV"></a>
-    &nbsp;
+
     <img src="https://komarev.com/ghpvc/?username=zihaoxuan-homepage&label=Page%20Views&color=007EC6&style=flat" alt="Visitor Count" />
   </p>
   <p><em>WeChat: ZihaoXUAN-numX</em></p>
