@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Zihao Xuan - Postdoctoral Fellow at HKUST"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,9 +15,20 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<div align="center">
+  <h2>Zihao Xuan (宣自豪)</h2>
+  <p>
+    <a href="mailto:zihaoxuan@ust.hk"><img src="https://img.shields.io/badge/Email-zihaoxuan@ust.hk-007EC6?style=flat&logo=minutemailer&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?user=v9wNPcgAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=4285F4&style=flat&label=Citations"></a>
+    <a href="../images/CanadaCast_CV_example.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white"></a>
+  </p>
+  <p><em>WeChat: ZihaoXUAN-numX</em></p>
+</div>
 
 I am currently a Postdoctoral Fellow at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) and a staff of the [AI Chip Center for Emerging Smart Systems](https://inno-access.hk/) (ACCESS) under InnoHK. I received the B.S. degree in Mechano-Electronic Engineering from [Xidian University](https://en.xidian.edu.cn/) in 2017, and the Ph.D. degree in Electronic Science and Technology from the [University of Science and Technology of China](https://www.ustc.edu.cn/) in 2023 under the supervision of Prof. Yi Kang. My research interests include efficient neural network algorithms and their implementation on chips. I have published more than 16+ papers at top international conferences (DAC, CICC, ASP-DAC, ISCAS) and journals (AFM, TCAD, TCAS-II, TVLSI, TODES, CHIP), with total <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'>Google Scholar citations <strong><span id='total_cit'>290+</span></strong></a> (You can also use the Google Scholar badge <a href='https://scholar.google.com/citations?user=v9wNPcgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). You can find more information through my [CV](../images/CanadaCast_CV_example.pdf). Welcome to contact me if you have any interests in collaboration.
+
+
+
 
 E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 
