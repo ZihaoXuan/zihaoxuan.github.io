@@ -20,7 +20,7 @@ redirect_from:
   <p>
     <a href="mailto:zihaoxuan@ust.hk"><img src="https://img.shields.io/badge/Email-zihaoxuan@ust.hk-007EC6?style=flat&logo=minutemailer&logoColor=white"></a>
     <a href="https://scholar.google.com/citations?user=v9wNPcgAAAAJ">
-      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F你的用户名%2F你的仓库名%2Fmain%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=googlescholar&labelColor=f6f6f6&color=4285F4&style=flat&label=Citations" alt="Google Scholar Citations">
+      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FZihaoXuan%2Fzihaoxuan.github.io%2Fmain%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=googlescholar&labelColor=f6f6f6&color=4285F4&style=flat&label=Citations" alt="Google Scholar Citations">
     </a>
     <a href="../images/CanadaCast_CV_example.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white"></a>
     <img src="https://komarev.com/ghpvc/?username=zihaoxuan-homepage&label=Page%20Views&color=007EC6&style=flat" alt="Visitor Count" />
