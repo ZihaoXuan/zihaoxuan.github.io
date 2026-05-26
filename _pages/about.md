@@ -36,7 +36,7 @@ E-mail: zihaoxuan@ust.hk \| WeChat: ZihaoXUAN-numX
 - *2015*, National Inspirational Scholarship.
   
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Our paper “Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster” has been accepted as regular paper by Forty-third International Conference on Machine Learning (ICML), May 2026, **(CCF-A Journal)**.
+- *2026.05*: &nbsp;🎉🎉 Our paper “Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster” has been accepted as regular paper by Forty-third International Conference on Machine Learning (ICML), May 2026, **(CCF-A Conference)**.
 - *2026.04*: &nbsp;🎉🎉 Our paper “Towards Secure and Efficient DNN Accelerators via Hardware-Software Co-Design” has been accepted by IIEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Apri 2026, **(CCF-A Journal)**.
 - *2026.01*: &nbsp;🎉🎉 Our paper “D2CIM: A 28nm 53.3 TFLOP/W Decoding Digital CIM Macro for Efficient FlashMLA-based LLM Inference” has been accepted for oral presentation at 2026 IEEE Custom Integrated Circuits Conference (CICC) , Apri 2026, Seattle, USA! **Top IC Conference**.
 - *2025.08*: &nbsp;🎉🎉 My paper as the main corresponding author “CDCC: A HIGH-EFFICIENCY SRAM-BASED CHARGE-DOMAIN COMPUTE-IN-MEMORY MACRO WITH COMPLEMENT COMPENSATION DESIGN FOR AI APPLICATIONS” has been accepted by the IEEE ASICON 2025 as Oral presentation paper, Aug 2025, Yunan, China! **(Best Paper Award)**.
