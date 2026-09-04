@@ -49,6 +49,8 @@ My research interests include efficient neural network algorithms and their impl
 - *2015*, National Inspirational Scholarship.
   
 # 🔥 News
+- *[ASP-DAC'26]*: &nbsp;🎉🎉 One collaborative paper has been accepted by ASP-DAC 2027, Congratulations, Yi Deng!
+- *[ICCAD'26]*: &nbsp;🎉🎉 One collaborative paper has been accepted by ICCAD 2026, Congratulations, Hegan Chen!
 - *[ICML'26]*: &nbsp;🎉🎉 Our paper “Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster” has been accepted as regular paper by Forty-third International Conference on Machine Learning (ICML), May 2026, **(CCF-A Conference)**.
 - *[TCAD'26]*: &nbsp;🎉🎉 Our paper “Towards Secure and Efficient DNN Accelerators via Hardware-Software Co-Design” has been accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Apri 2026, **(CCF-A Journal)**.
 - *[CICC'26]*: &nbsp;🎉🎉 Our paper “D2CIM: A 28nm 53.3 TFLOP/W Decoding Digital CIM Macro for Efficient FlashMLA-based LLM Inference” has been accepted for oral presentation at 2026 IEEE Custom Integrated Circuits Conference (CICC) , Apri 2026, Seattle, USA! **Top IC Conference**.
